@@ -14,7 +14,6 @@ To run this notebook, you need to have the following Python packages installed:
 - pandas
 - matplotlib
 - scikit-learn
-- seaborn
 
 You can install these packages using pip:
 
